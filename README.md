@@ -1,5 +1,5 @@
 # Welcome~ 👋
-## I'm Noh Yonh Cheol
+## I'm Noh Yong Cheol
 
 ### Now, I’m currently learning Autonomous driving S/W in hancom academy 😄
 
