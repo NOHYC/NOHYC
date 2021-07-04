@@ -22,7 +22,7 @@
 4. 카메라를 활용한 자율주행자동차 물체 인식 구현 ( YOLO, LANENET, 강화학습 모델 적용 )  : https://github.com/NOHYC/final_project_self_driving "in muticampus"
 
 
-### My blog is https://velog.io/@noooooh_042
+##### My blog is https://velog.io/@noooooh_042
 
 <!--
 **NOHYC/NOHYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
