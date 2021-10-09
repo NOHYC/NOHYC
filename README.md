@@ -1,11 +1,11 @@
 # Welcome~ 👋
 ## I'm Noh Yong Cheol
 
-### Now, I’m currently learning Autonomous driving S/W in hancom academy 😄
-
 ### Major : Mechanical engineering
 
-### I'm interested in Computer vision
+### I'm interested in Computer vision 😄
+
+### I work in Computer vision 🤔
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -21,6 +21,7 @@
 
 4. 카메라를 활용한 자율주행자동차 물체 인식 구현 ( YOLO, LANENET, 강화학습 모델 적용 )  : https://github.com/NOHYC/final_project_self_driving "in muticampus"
 
+5. 강화학습을 적용한 자율주행자동차 ( ENET - SAD , DDPG 기반 simulator and mini_car )  https://github.com/NOHYC/autonomous_driving_car_project "hancom academy"
 
 ##### My blog is https://velog.io/@noooooh_042
 
