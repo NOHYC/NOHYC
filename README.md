@@ -1,5 +1,5 @@
-# Welcome~ 👋
-## I'm Noh Yong Cheol
+## Welcome~ 👋
+### I'm Noh Yong Cheol
 
 ### Major : Mechanical engineering
 
@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+
+### Os / Library : Linux , Window , ROS / Opencv , Pytorch, tensorflow
 
 ### What i did
 
