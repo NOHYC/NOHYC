@@ -1,9 +1,7 @@
 ## Welcome~ 👋
 ### I'm Noh Yong Cheol
 
-### Major : Mechanical engineering
-
-### I'm interested in Computer vision 😄
+### I'm interested in Autonomous driving 😄
 
 ### I work in Computer vision 🤔
 
