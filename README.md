@@ -19,7 +19,7 @@
 
 3. 니가있는 그곳🏰은 어디야? ( CNN 모델 이용한 서비스 구현 ) : https://github.com/NOHYC/Landmark_finder_using_CNN "in muticampus"
 
-4. 카메라를 활용한 자율주행자동차 물체 인식 구현 ( YOLO, LANENET, 강화학습 모델 적용 )  : https://github.com/NOHYC/final_project_self_driving "in muticampus"
+4. 블랙박스 영상을 활용한 물체 인식 구현 ( YOLO, LANENET, 강화학습 모델 적용 )  : https://github.com/NOHYC/final_project_self_driving "in muticampus"
 
 5. 강화학습을 적용한 자율주행자동차 ( ENET - SAD , DDPG 기반 simulator and mini_car )  https://github.com/NOHYC/autonomous_driving_car_project "hancom academy"
 
