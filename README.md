@@ -25,6 +25,8 @@
 
 ##### My blog is https://velog.io/@noooooh_042
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOHYC&langs_count=8)](https://github.com/NOHYC/github-readme-stats)
+
 <!--
 **NOHYC/NOHYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
