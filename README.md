@@ -11,6 +11,8 @@
 
 ### OS / Library : Linux , Window , ROS / Opencv , Pytorch, tensorflow
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
+
 ### What i did
 
 1. 심리에 따른 투표 예측( 데이터 분석 ) : https://github.com/NOHYC/vote_prediction_from_Machiavellism_test "in muticampus"
@@ -25,7 +27,7 @@
 
 ##### My blog is https://velog.io/@noooooh_042
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
+
 
 <!--
 **NOHYC/NOHYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
