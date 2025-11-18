@@ -23,6 +23,8 @@
 
 5. 강화학습을 적용한 자율주행자동차 ( ENET - SAD , DDPG 기반 simulator and mini_car )  https://github.com/NOHYC/autonomous_driving_car_project "hancom academy"
 
+6. GCP를 활용한 chatGPT (Streamlit ) https://github.com/NOHYC/GCP_chatGPT
+
 ##### My blog is https://velog.io/@noooooh_042
 
 
