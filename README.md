@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
 
+
 ### What i did
 
 1. 심리에 따른 투표 예측( 데이터 분석 ) : https://github.com/NOHYC/vote_prediction_from_Machiavellism_test "in muticampus"
@@ -23,8 +24,9 @@
 
 5. 강화학습을 적용한 자율주행자동차 ( ENET - SAD , DDPG 기반 simulator and mini_car )  https://github.com/NOHYC/autonomous_driving_car_project "hancom academy"
 
-6. GCP를 활용한 chatGPT (Streamlit ) https://github.com/NOHYC/GCP_chatGPT
+6. GCP를 활용한 chatGPT ( Streamlit ) https://github.com/NOHYC/GCP_chatGPT
 
+7. 축구 경기 챗봇 ( vllm, docker ) https://github.com/NOHYC/chatBot_llm
 ##### My blog is https://velog.io/@noooooh_042
 
 
