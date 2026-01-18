@@ -9,7 +9,7 @@
 
 ### OS / Library : Linux , Window , ROS1, ROS2 / Opencv , Pytorch, tensorflow, llm
 
-[![Top Langs](github-readme-stats-sepia-ten-57.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sepia-ten-57.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
 
 
 ### What i did
