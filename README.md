@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
-### OS / Library : Linux , Window , ROS / Opencv , Pytorch, tensorflow
+### OS / Library : Linux , Window , ROS1, ROS2 / Opencv , Pytorch, tensorflow, llm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
+[![Top Langs](github-readme-stats-sepia-ten-57.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
 
 
 ### What i did
