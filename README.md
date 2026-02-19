@@ -1,8 +1,6 @@
 <div align="center">
 
-# Yong-Cheol Ro
-
-Autonomous Driving · Time-series Anomaly Detection · Applied ML Engineering
+# Autonomous Driving · Time-series Anomaly Detection · Applied ML Engineering
 
 <a href="https://velog.io/@noooooh_042">Blog</a>
 </div>
