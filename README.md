@@ -7,9 +7,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
-### OS / Library : Linux , Window , ROS1, ROS2 / Opencv , Pytorch, tensorflow, llm
+### OS / Library : Linux , Window , ROS1, ROS2 /  Opencv , Pytorch, Tensorflow
 
-[![Top Langs](https://github-readme-stats-sepia-ten-57.vercel.app/api/top-langs/?username=NOHYC&langs_count=8&hide=jupyter%20notebook,Makefile,CMake)](https://github.com/NOHYC/github-readme-stats)
 
 
 ### What i did
@@ -27,6 +26,8 @@
 6. GCP를 활용한 chatGPT ( Streamlit ) https://github.com/NOHYC/GCP_chatGPT
 
 7. 축구 경기 챗봇 ( vllm, docker ) https://github.com/NOHYC/chatBot_llm
+
+8. 전기차 충전 배터리 이상탐지 모델 ( ACM SAC 2026 conference ) https://github.com/dlrauddyd33/TwinTCN
 ##### My blog is https://velog.io/@noooooh_042
 
 
